@@ -1,0 +1,3 @@
+[submodule "lib/ADE7753"]
+	path = lib/ADE7753
+	url = git@github.com:ignaworn/ADE7753.git
